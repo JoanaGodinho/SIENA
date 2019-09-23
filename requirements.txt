@@ -4,7 +4,5 @@ matplotlib
 ipython
 jupyter
 pandas
-tensorflow-gpu==1.5.0
 edward==1.3.5
 sklearn
-seaborn
